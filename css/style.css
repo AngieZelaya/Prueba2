@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Open+Sans:wght@300;400;500;600&display=swap');
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	color: #000;
+}
+header{
+	background-color: #000;
+}
+
+#hero{
+	background-image: url("../img/bg-sliders.jpg");
+	background-size: cover;
+	background-position: top;
+	color: #fff;
+}
+#hero h1{
+	font-size: 35px;
+	font-weight: 900;
+	color: #fff;
+}
+#hero li{
+	font-size: 13px;
+	font-weight: 400;
+	color: #fff;
+	margin-bottom: 10px;
+}
+.lista-benefits{
+	margin: 30px;
+	padding-left: 10px;
+}
+
+.lista-benefits li{
+	line-height: 2;
+}
+
+.img-fluid{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
+#products p{
+	text-align: left;
+}
+
+
+
+
+
+
+footer{
+	background-color: #323232;
+	color: #898989;
+	padding: 20px 0px;
+	font-size: 14px;
+}
+footer li a{
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	background-color: #171717;
+	display: block;
+	text-align: center;
+	border-radius: 100%;
+	color: #58606b;
+	font-size: 16px;
+}
+footer li a:hover{
+	background-color: #000;
+	color: #fff;
+}
+
+footer li a.fb:hover{
+	background-color: #3b5998;
+}
+footer li a.ig:hover{
+	background-color: #DD2A7B;
+}
+footer li a.tw:hover{
+	background-color: #00ACEE;
+}
+footer li a.lk:hover{
+	background-color: #0E76A8;
+}
+
+
+
+
